@@ -1,3 +1,9 @@
+<h1>Functions</h1>
+<ul>
+  <li>Change Coins</li>
+  <li>Change Killer points</li>
+</ul>
+
 # ImGui-DirectX-11-Kiero-Hook
 Universal ImGui implementation through DirectX 11 Hook (kiero)
 <h1>Setting up the solution</h1>
